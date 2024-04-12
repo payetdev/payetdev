@@ -1,24 +1,19 @@
-## Hi there, I'm PayetDev! 👋
+## Hello, world! 👋
 
-Welcome to my Github profile !
+Welcome to PayetDev's Github profile !
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=payetdev.payetdev&left_color=green&right_color=red)
 
 ### 🌟 About Me:
 I'm passionate about coding and exploring new technologies. When I'm not programming, I love to travel and experience different cultures around the world.
 
-### 🌐 Website:
+### 🌐 My website:
 [![Portfolio](https://payetdev.com/favicon.ico)](https://payetdev.com)
-
-### 💻 Some stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=payetdev&show_icons=true&theme=radical)
 
 ### 😂 Here's a random joke for you:
 ![Joke](https://readme-jokes.vercel.app/api)
 
 ### 📝 Quote of the day:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 
 
 <!--
