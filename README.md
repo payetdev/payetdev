@@ -2,15 +2,16 @@
 
 Welcome to PayetDev's Github profile !
 
-
 ### 🌟 About Me:
 I'm passionate about coding and exploring new technologies. When I'm not programming, I love to travel and experience different cultures around the world.
 
 ### 🌐 My website:
 [![Portfolio](https://payetdev.com/favicon.ico)](https://payetdev.com)
 
+<!--
 ### 😂 Here's a random joke for you:
 ![Joke](https://readme-jokes.vercel.app/api)
+-->
 
 ### 📝 Quote of the day:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
